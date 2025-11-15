@@ -8,7 +8,7 @@ from pynput import mouse, keyboard
 class AutoClicker:
     def __init__(self):
         self.root = tk.Tk()
-        self.root.title("Advanced AutoClicker")
+        self.root.title("Simple Macro")
         self.root.geometry("500x400")
         self.root.resizable(False, False)
         
