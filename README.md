@@ -29,7 +29,7 @@ A sophisticated Python-based Minecraft macro application with advanced PvP featu
 
 **Support ongoing development with donations:**
 
-**💰 Ethereum wallet: 0x5dFB04ADe7beFaCB2Ed8cfBdcF2326Cc5eA056c8 💰**
+**💰 Ethereum wallet: 0x88Ead8424c69f0C88899aab01E35ad5d259594b1 💰**
 
 **🎁 Tipply.pl: https://tipply.pl/@exploitnode 🎁**
 
